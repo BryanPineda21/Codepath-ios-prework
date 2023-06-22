@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img width="450" alt="code of button" src="https://github.com/BryanPineda21/Codepath-ios-prework/assets/109675212/9a8383ee-f7aa-4e49-be74-0ca9496f101d">
+<img width="500" alt="code of button" src="https://github.com/BryanPineda21/Codepath-ios-prework/assets/109675212/9a8383ee-f7aa-4e49-be74-0ca9496f101d">
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with GIPHY 
