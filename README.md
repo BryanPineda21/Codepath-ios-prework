@@ -45,7 +45,7 @@ GIF created with ...
 
 ## Notes
 
-Although I did not face many challenges, It was fun playing around with the storyboard in Xcode and learning how I can use storyboard as a template for my app. 
+Although I did not face many challenges, It was fun playing around with the storyboard in Xcode and learning how I can use storyboard as a template for future apps. 
 
 ## License
 
