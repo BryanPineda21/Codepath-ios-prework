@@ -24,7 +24,8 @@ Here's a walkthrough of implemented user stories:
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with GIPHY 
 
-![app walkthrough Giphy](https://github.com/BryanPineda21/Codepath-ios-prework/assets/109675212/6aeb5062-1e2a-451e-9b78-916bee1f1eb9)
+![App demo giphy](https://github.com/BryanPineda21/Codepath-ios-prework/assets/109675212/c842af75-cccf-494a-a22c-ad6607e20b88)
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
