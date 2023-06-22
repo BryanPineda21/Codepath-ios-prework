@@ -1,10 +1,10 @@
 # code-path-ios-pre-work
 
-# Prework - *change background color*
+# Prework - *change my background color*
 
 Submitted by: **Bryan Pineda**
 
-**Change background color** is an app that... [contains three labels with text and can allow users to change the background color of the app using a button integrated in the User Interface.] 
+**Change my background color** is an app that... [contains three labels with text and can allow users to change the background color of the app using a button integrated in the User Interface.] 
 
 Time spent: **1** hours spent in total
 
