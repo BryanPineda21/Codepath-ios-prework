@@ -18,12 +18,13 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![app walkthrough Giphy](https://github.com/BryanPineda21/Codepath-ios-prework/assets/109675212/6aeb5062-1e2a-451e-9b78-916bee1f1eb9)
 
-<img width="300" alt="Screenshot 2023-06-22 at 4 48 06 AM" src="https://github.com/BryanPineda21/Codepath-ios-prework/assets/109675212/daff0a65-133f-4f79-938b-121bdabd022c">
+<img width="400" alt="code of button" src="https://github.com/BryanPineda21/Codepath-ios-prework/assets/109675212/9a8383ee-f7aa-4e49-be74-0ca9496f101d">
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with GIPHY 
+
+![app walkthrough Giphy](https://github.com/BryanPineda21/Codepath-ios-prework/assets/109675212/6aeb5062-1e2a-451e-9b78-916bee1f1eb9)
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -37,12 +38,15 @@ GIF created with GIPHY
 - Remind app:
    - being able to notify people of events 
    - Get notified of who exactly messaged you
-- Slack app:
-   - call people
-   - Having different sections
 - Discord app:
    - Being able to send gifs
-   - being able to notify users by tagging them 
+   - being able to notify users by tagging them
+     
+## App Idea
+
+Recycle Smart App:
+
+This is an app that will allow users to find different ways to recycle their waste or donate useful items. This app will not only lead to environmental impact but it will also help the earth become more sustainable. In this app, users will be able to create an account and find different ways to recycle their waste or donate their items to those in need. Users will be able to earn points by inputting the items they have recycled or donated throughout the week. Finally, this app will consist of using Api’s and other technologies. 
 
 ## Notes
 
