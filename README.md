@@ -1,19 +1,19 @@
 # code-path-ios-pre-work
 
-# Prework - *Name of App Here*
+# Prework - *change background color*
 
-Submitted by: **Your Name Here**
+Submitted by: **Bryan Pineda**
 
-**Name of your app** is an app that... [TODO] 
+**Change background color** is an app that... [contains three labels with text and can allow users to change the background color of the app using a button integrated in the User Interface.] 
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -30,13 +30,26 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 
+- Notion app:
+   - uploading a link and being able to save notes
+   - TO-DO list
+- Remind app:
+   - being able to notify people of events 
+   - Get notified of who exactly messaged you
+- Slack app:
+   - call people
+   - Having different sections
+- Discord app:
+   - Being able to send gifs
+   - being able to notify users by tagging them 
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+Although I did not face many challenges, It was fun playing around with the storyboard in Xcode and learning how I can use storyboard as a template for my app. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Bryan Pineda]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
