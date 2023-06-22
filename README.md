@@ -4,7 +4,7 @@
 
 Submitted by: **Bryan Pineda**
 
-**Change my background color** is an app that... [contains three labels with text and can allow users to change the background color of the app using a button integrated in the User Interface.] 
+**Change my background color** is an app that... [contains of three labels with text and can allow users to change the background color of the app using a button integrated in the User Interface of the app.] 
 
 Time spent: **1** hours spent in total
 
