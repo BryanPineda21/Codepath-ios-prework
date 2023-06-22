@@ -20,11 +20,10 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 ![app walkthrough Giphy](https://github.com/BryanPineda21/Codepath-ios-prework/assets/109675212/6aeb5062-1e2a-451e-9b78-916bee1f1eb9)
 
-
-<img src='![]()' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img width="1139" alt="Screenshot 2023-06-22 at 4 48 06 AM" src="https://github.com/BryanPineda21/Codepath-ios-prework/assets/109675212/daff0a65-133f-4f79-938b-121bdabd022c">
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ... GIPHY 
+GIF created with GIPHY 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
