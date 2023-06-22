@@ -1,6 +1,6 @@
 # code-path-ios-pre-work
 
-# Prework - *change my background color App*
+# Prework - *Change my background color App*
 
 Submitted by: **Bryan Pineda**
 
